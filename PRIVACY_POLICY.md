@@ -1,6 +1,6 @@
 # 12K Snow Privacy Policy
 
-**Effective date:** [set on the day it is published]  
+**Effective date:** October 27, 2026  
 **App:** 12K Snow for Android (com.appodyssey.twelveksnow), including 12K Snow Pro  
 **Developer:** App Odyssey  
 **Contact:** app.odyssey.us@gmail.com
